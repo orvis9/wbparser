@@ -1,0 +1,15 @@
+# Виртуальное окружение
+venv/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Результаты работы скрипта
+par.xlsx
+par_broken_*.xlsx
+timing_log_*.txt
+
+# Тестовые файлы
+_test_par.xlsx

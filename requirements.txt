@@ -1,0 +1,4 @@
+# Основные библиотеки для парсинга и работы с данными
+patchright          # Форк Playwright с обходом защиты Wildberries
+pandas              # Работа с таблицами и Excel
+openpyxl            # Движок для чтения/записи Excel (.xlsx)
